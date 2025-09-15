@@ -96,7 +96,7 @@ ml-algorithms-app/
 - **Ejemplos cotidianos** fáciles de entender
 - **Gráficos dinámicos** que muestran cómo funcionan
 - **Interfaz amigable** para navegar entre algoritmos
-- **Diseño responsive** que funciona en celular y computadora
+- **Diseño responsive** que funciona en celular y computador
 
 ## COMANDOS ÚTILES
 
