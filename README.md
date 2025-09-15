@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # APLICACIÓN WEB DE ALGORITMOS DE MACHINE LEARNING
 
 ## DEPENDENCIAS NECESARIAS PARA REACT
@@ -121,3 +122,6 @@ Si la aplicación no funciona:
 2. Ejecutar `npm install` para instalar dependencias
 3. Verificar que el puerto 3000 esté libre
 4. Reiniciar la terminal y ejecutar `npm start` nuevamente
+=======
+# algoritmos-ml
+>>>>>>> 749835a0ba6fc718e2c2fce5db466c8330c9648e
